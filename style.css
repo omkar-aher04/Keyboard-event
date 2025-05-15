@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #111;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.output {
+  font-size: 1.5rem;
+  background-color: #222;
+  padding: 20px 40px;
+  border-radius: 10px;
+  border: 2px solid #444;
+}
+
+span {
+  color: #4caf50;
+  font-weight: bold;
+}
